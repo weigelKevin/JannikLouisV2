@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Klausur\A4\bin\Debug\net8.0\A4.exe
+C:\Users\Kevin\RiderProjects\Klausur\A4\bin\Debug\net8.0\A4.deps.json
+C:\Users\Kevin\RiderProjects\Klausur\A4\bin\Debug\net8.0\A4.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Klausur\A4\bin\Debug\net8.0\A4.dll
+C:\Users\Kevin\RiderProjects\Klausur\A4\bin\Debug\net8.0\A4.pdb
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.sourcelink.json
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.dll
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\refint\A4.dll
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.pdb
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\A4.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Klausur\A4\obj\Debug\net8.0\ref\A4.dll

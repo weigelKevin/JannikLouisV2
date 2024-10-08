@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\refint\Studierendenverwaltung.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Studierendenverwaltung\obj\Debug\net8.0\ref\Studierendenverwaltung.dll

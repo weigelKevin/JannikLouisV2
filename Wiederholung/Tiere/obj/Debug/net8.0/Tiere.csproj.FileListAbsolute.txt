@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\bin\Debug\net8.0\Tiere.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\bin\Debug\net8.0\Tiere.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\bin\Debug\net8.0\Tiere.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\bin\Debug\net8.0\Tiere.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\bin\Debug\net8.0\Tiere.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\refint\Tiere.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\Tiere.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Tiere\obj\Debug\net8.0\ref\Tiere.dll

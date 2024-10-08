@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\bin\Debug\net8.0\Generischer Bubblesortt.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\bin\Debug\net8.0\Generischer Bubblesortt.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\bin\Debug\net8.0\Generischer Bubblesortt.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\bin\Debug\net8.0\Generischer Bubblesortt.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\bin\Debug\net8.0\Generischer Bubblesortt.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\refint\Generischer Bubblesortt.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\Generischer Bubblesortt.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Generischer Bubblesortt\obj\Debug\net8.0\ref\Generischer Bubblesortt.dll

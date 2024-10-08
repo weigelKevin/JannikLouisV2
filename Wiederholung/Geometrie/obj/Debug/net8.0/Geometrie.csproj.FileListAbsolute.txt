@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\bin\Debug\net8.0\Geometrie.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\bin\Debug\net8.0\Geometrie.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\bin\Debug\net8.0\Geometrie.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\bin\Debug\net8.0\Geometrie.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\bin\Debug\net8.0\Geometrie.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\refint\Geometrie.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\Geometrie.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Geometrie\obj\Debug\net8.0\ref\Geometrie.dll

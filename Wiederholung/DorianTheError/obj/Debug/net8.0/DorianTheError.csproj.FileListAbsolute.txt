@@ -1,0 +1,5 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\DorianTheError\obj\Debug\net8.0\DorianTheError.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\DorianTheError\obj\Debug\net8.0\DorianTheError.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\DorianTheError\obj\Debug\net8.0\DorianTheError.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\DorianTheError\obj\Debug\net8.0\DorianTheError.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\DorianTheError\obj\Debug\net8.0\DorianTheError.sourcelink.json

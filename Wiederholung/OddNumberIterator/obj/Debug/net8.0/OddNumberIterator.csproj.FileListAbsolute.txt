@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\bin\Debug\net8.0\OddNumberIterator.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\bin\Debug\net8.0\OddNumberIterator.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\bin\Debug\net8.0\OddNumberIterator.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\bin\Debug\net8.0\OddNumberIterator.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\bin\Debug\net8.0\OddNumberIterator.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\refint\OddNumberIterator.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\OddNumberIterator.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\OddNumberIterator\obj\Debug\net8.0\ref\OddNumberIterator.dll

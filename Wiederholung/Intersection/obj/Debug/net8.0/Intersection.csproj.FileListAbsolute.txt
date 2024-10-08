@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\bin\Debug\net8.0\Intersection.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\bin\Debug\net8.0\Intersection.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\bin\Debug\net8.0\Intersection.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\bin\Debug\net8.0\Intersection.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\bin\Debug\net8.0\Intersection.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\refint\Intersection.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\Intersection.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Intersection\obj\Debug\net8.0\ref\Intersection.dll

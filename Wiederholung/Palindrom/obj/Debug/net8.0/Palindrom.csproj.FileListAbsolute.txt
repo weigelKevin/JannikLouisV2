@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\bin\Debug\net8.0\Palindrom.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\bin\Debug\net8.0\Palindrom.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\bin\Debug\net8.0\Palindrom.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\bin\Debug\net8.0\Palindrom.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\bin\Debug\net8.0\Palindrom.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\refint\Palindrom.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\Palindrom.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Palindrom\obj\Debug\net8.0\ref\Palindrom.dll

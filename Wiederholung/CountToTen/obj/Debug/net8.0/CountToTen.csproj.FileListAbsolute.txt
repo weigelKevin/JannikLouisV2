@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\bin\Debug\net8.0\CountToTen.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\bin\Debug\net8.0\CountToTen.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\bin\Debug\net8.0\CountToTen.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\bin\Debug\net8.0\CountToTen.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\bin\Debug\net8.0\CountToTen.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\refint\CountToTen.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\CountToTen.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\CountToTen\obj\Debug\net8.0\ref\CountToTen.dll

@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\bin\Debug\net8.0\InterfaceSort.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\bin\Debug\net8.0\InterfaceSort.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\bin\Debug\net8.0\InterfaceSort.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\bin\Debug\net8.0\InterfaceSort.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\bin\Debug\net8.0\InterfaceSort.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\refint\InterfaceSort.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\InterfaceSort.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\InterfaceSort\obj\Debug\net8.0\ref\InterfaceSort.dll

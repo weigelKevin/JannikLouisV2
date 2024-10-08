@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\bin\Debug\net8.0\Bubblesort.exe
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\bin\Debug\net8.0\Bubblesort.deps.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\bin\Debug\net8.0\Bubblesort.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\bin\Debug\net8.0\Bubblesort.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\bin\Debug\net8.0\Bubblesort.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.sourcelink.json
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\refint\Bubblesort.dll
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.pdb
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\Bubblesort.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Wiederholung\Bubblesort\obj\Debug\net8.0\ref\Bubblesort.dll
