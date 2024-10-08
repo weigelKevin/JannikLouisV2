@@ -7,7 +7,11 @@ namespace ZählenMitIteratoren
     {
         static void Main(string[] args)
         {
-            foreach (int number in CountToTen())
+            foreach (int number in CountToTen().Take(700))
+            {
+                Console.WriteLine(number);
+            }
+            foreach (int number in CountToTen().Take(700))
             {
                 Console.WriteLine(number);
             }
@@ -15,7 +19,7 @@ namespace ZählenMitIteratoren
 
         public static IEnumerable<int> CountToTen()
         {
-            for (int i = 1; i <= 10; i++)
+            for (int i = 1; i <= 10000000000000000; i++)
             {
                 yield return i;
             }

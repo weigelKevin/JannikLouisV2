@@ -12,3 +12,4 @@ C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Palindrom\obj\Debug\net
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Palindrom\obj\Debug\net8.0\Palindrom.pdb
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Palindrom\obj\Debug\net8.0\Palindrom.genruntimeconfig.cache
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Palindrom\obj\Debug\net8.0\ref\Palindrom.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Palindrom\obj\Debug\net8.0\Palindrom.sourcelink.json

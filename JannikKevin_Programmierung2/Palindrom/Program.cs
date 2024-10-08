@@ -12,9 +12,10 @@ class Program
         g1.DoCheckInput(input1);
         g1.CheckIfPalindrom(input1);
         g1.CheckIfPalindromV2(input1);
-        ;
+        
+        
 
-
+            
 
 
     }

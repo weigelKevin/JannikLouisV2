@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vererbung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c2eed28390e93e441fdc066a50fb9be11ac3c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93410ae55dc5c77a65935d63452fa601fd6ffd3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("vererbung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vererbung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

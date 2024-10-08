@@ -46,6 +46,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZählenMitIteratoren", "Zä
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorUngeradeZahlen", "IteratorUngeradeZahlen\IteratorUngeradeZahlen.csproj", "{46B9C1DA-500A-4FB1-A272-90EEA8213B6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiederholung", "Wiederholung\Wiederholung.csproj", "{17303231-4BB4-4E77-B882-CC71131CEF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klausur", "Klausur\Klausur.csproj", "{6A426199-B165-4821-AF4B-BC19D57BAE12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +148,13 @@ Global
 		{46B9C1DA-500A-4FB1-A272-90EEA8213B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46B9C1DA-500A-4FB1-A272-90EEA8213B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46B9C1DA-500A-4FB1-A272-90EEA8213B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17303231-4BB4-4E77-B882-CC71131CEF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17303231-4BB4-4E77-B882-CC71131CEF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17303231-4BB4-4E77-B882-CC71131CEF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17303231-4BB4-4E77-B882-CC71131CEF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A426199-B165-4821-AF4B-BC19D57BAE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A426199-B165-4821-AF4B-BC19D57BAE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A426199-B165-4821-AF4B-BC19D57BAE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A426199-B165-4821-AF4B-BC19D57BAE12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
